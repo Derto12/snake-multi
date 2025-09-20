@@ -1,0 +1,23 @@
+4
+-----------------------------------------------------------
+|D3                                                    C  |
+|   XXXXXXXXXX                       XXXXXXX           2  |
+|   XXXXXXXX                            XXXXXXXXX         |
+|   XXXXA0                                   XXXXXX       |
+|                                                         |
+|                 XXxXxxxxX                               |
+|                   XXxXXXxXX                             |
+|                    XXXXXXXxXXXx                         |
+|                   XxxxxXxxx                             |
+|                 XXxxxxxxX                               |
+|                                                         |
+|                        xxxxxxx                          |
+|                     XXXXXXXXX                           |
+|                     XXXXXXXXXXXXXXX                     |
+|                  XXXXXXXX                               |
+|                                                         |
+|      XXXXXX                                             |
+|   XXXXXXXXXXX                               XXXXXXXX    |
+|      XXXXX                                 XXXXXXXXXX   |
+|B1                                                       |
+-----------------------------------------------------------
