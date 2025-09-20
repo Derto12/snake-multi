@@ -131,6 +131,10 @@ public class GameManager
             var delay = GameSpeed - (int)watch.ElapsedMilliseconds;
             if (delay > 0) await Task.Delay(delay);
         }
+        
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.SetCursorPosition(0, _map.Height + 1);
+        Console.WriteLine("Game over. Press any key to exit.");
     }
 
 
@@ -183,6 +187,7 @@ public class GameManager
         var captureInputAsync =  CaptureInputAsync();
         
         await Task.WhenAll(moveSnakesAsync, captureInputAsync);
+        Console.ForegroundColor = ConsoleColor.Green;
     }
 
     public void Reset()
