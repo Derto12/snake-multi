@@ -2,7 +2,7 @@ namespace Snake.Core;
 
 public struct SnakeControls(ConsoleKey up, ConsoleKey down, ConsoleKey left, ConsoleKey right)
 {
-    public Directions GetDirection(ConsoleKey key)
+    public Directions? GetDirection(ConsoleKey key)
     {
         return key switch
         {
@@ -10,7 +10,7 @@ public struct SnakeControls(ConsoleKey up, ConsoleKey down, ConsoleKey left, Con
             _ when key == down  => Directions.Down,
             _ when key == left  => Directions.Left,
             _ when key == right => Directions.Right,
-            _ => throw new ArgumentException($"Invalid key: {key}")
+            _ => null
         };
     }
 }
