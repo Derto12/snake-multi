@@ -1,4 +1,4 @@
-# Advanced Console Snake AI
+# Console Snake Multiplayer
 
 This project is a modern implementation of the classic Snake game in a .NET console application. It features a complex, multi-snake environment where player-controlled snakes can compete against intelligent AI opponents. The core focus is on robust software architecture and advanced algorithm implementation, making it a powerful demonstration of C# and software design principles.
 
