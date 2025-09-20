@@ -42,8 +42,6 @@ This project is a modern implementation of the classic Snake game in a .NET cons
     * Define your `SnakeControl`objects and add them to your snakes.
     * Press `ESC` to exit the game.
 
-![Picture of the game](Imgs/img1.jpg)
-
 ## Creating Custom Maps
 
 You can design your own levels by creating `.txt` files in the `Map_files` directory.
