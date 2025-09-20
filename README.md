@@ -2,7 +2,7 @@
 
 This project is a modern implementation of the classic Snake game in a .NET console application. It features a complex, multi-snake environment where player-controlled snakes can compete against intelligent AI opponents. The core focus is on robust software architecture and advanced algorithm implementation, making it a powerful demonstration of C# and software design principles.
 
-
+![Picture of the game](Imgs/img3.jpg)
 
 ## Key Features
 
@@ -23,6 +23,8 @@ This project is a modern implementation of the classic Snake game in a .NET cons
     * Object-Oriented Programming (Interfaces, Inheritance)
 * **Development Environment**: Visual Studio / VS Code
 
+![Picture of the game](Imgs/img2.jpg)
+
 ## How to Run the Project
 
 1.  **Clone the repository:**
@@ -39,6 +41,8 @@ This project is a modern implementation of the classic Snake game in a .NET cons
 3.  **Controls:**
     * Define your `SnakeControl`objects and add them to your snakes.
     * Press `ESC` to exit the game.
+
+![Picture of the game](Imgs/img1.jpg)
 
 ## Creating Custom Maps
 
