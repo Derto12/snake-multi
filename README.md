@@ -28,7 +28,6 @@ This project is a modern implementation of the classic Snake game in a .NET cons
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Derto12/snake-multi
-    cd <repository-folder>
     ```
 
 2.  **Restore dependencies and run:**
